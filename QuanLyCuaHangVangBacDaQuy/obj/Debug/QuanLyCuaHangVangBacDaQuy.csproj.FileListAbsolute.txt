@@ -1,0 +1,203 @@
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csprojAssemblyReference.cache
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDVT.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucLoaiSP.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmHoaDonBan.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmHoaDonDichVu.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+D:\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.AssemblyReference.cache
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmHoaDonBan.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmHoaDonDichVu.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc Khang\Downloads\QuanLyCuaHangVangBacDaQuy\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.AssemblyReference.cache
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmHoaDonBan.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+C:\Users\Phuc Khang\Downloads\New folder (3)\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuDichVu.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.AssemblyReference.cache
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmHoaDonBan.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuDichVu.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmHoaDonBan.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuDichVu.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\admin\Downloads\doancnpm\doancnpm\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.AssemblyReference.cache
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuDichVu.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuBanHang.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDonViTinh.resources
+C:\Users\Phuc Khang\Downloads\doancnpm_final1\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucLoaiSanPham.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.AssemblyReference.cache
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDonViTinh.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuBanHang.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuDichVu.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucLoaiSanPham.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+C:\Users\Phuc Khang\Downloads\finalproject\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.AssemblyReference.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.SuggestedBindingRedirects.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDonViTinh.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuBanHang.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuDichVu.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucLoaiSanPham.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\nhóm 5\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe.config
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.exe
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\bin\Debug\QuanLyCuaHangVangBacDaQuy.pdb
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.AssemblyReference.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.SuggestedBindingRedirects.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.ResolveComReference.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDonViTinh.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmBaoCaoTonKho.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucDichVu.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucKhachHang.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhaCungCap.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucNhanVien.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucSanPham.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuBanHang.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuDichVu.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmPhieuMuaHang.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmMain.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmTimKiemHDDichVu.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.frmDanhMucLoaiSanPham.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.Properties.Resources.resources
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.GenerateResource.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.csproj.CoreCompileInputs.cache
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.exe
+D:\II\HKII\Nhap_mon_Cong_nghe_phan_mem\NHOM5_QLCHKDVBDQ\QuanLyCuaHangVangBacDaQuy\obj\Debug\QuanLyCuaHangVangBacDaQuy.pdb
